@@ -22,7 +22,10 @@ function inc(n) {
   result = ++n
   return result
 }
-
+function dec(n) {
+  result = --n
+  return result
+}
 
 
 
