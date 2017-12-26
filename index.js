@@ -22,11 +22,6 @@ function inc(n) {
   result = n++
   return result
 }
-function dec(n) {
-  n = 0
-  result = n--
-  return result
-}
 
 
 
