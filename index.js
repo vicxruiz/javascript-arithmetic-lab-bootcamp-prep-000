@@ -32,7 +32,10 @@ function makeInt(n) {
   return result
 }
 
-
+function preserveDecimal(n) {
+  result = parseFloat(n)
+  return result
+}
 
 
 
