@@ -19,7 +19,7 @@ function divide(a, b) {
 
 
 function inc(n) {
-  result = n++
+  result = ++n
   return result
 }
 
